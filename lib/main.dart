@@ -96,8 +96,8 @@ class _MyHomePageState extends State<MyHomePage>
       worldController.reset();
       cacti = [
         Cactus(worldLocation: const Offset(200, 0)),
-        Cactus(worldLocation: const Offset(300, 0)),
-        Cactus(worldLocation: const Offset(450, 0)),
+        Cactus(worldLocation: const Offset(500, 0)),
+        Cactus(worldLocation: const Offset(750, 0)),
       ];
 
       ground = [

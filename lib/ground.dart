@@ -6,8 +6,8 @@ import 'sprite.dart';
 
 Sprite groundSprite = Sprite()
   ..imagePath = "assets/images/ground.png"
-  ..imageWidth = 2399
-  ..imageHeight = 24;
+  ..imageWidth = 10072
+  ..imageHeight = 2837;
 
 class Ground extends GameObject {
   final Offset worldLocation;
